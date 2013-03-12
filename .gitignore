@@ -1,3 +1,11 @@
+target/
+
+# Sometime IDEs make a bin folder
+bin/
+
+# Sometime IDEs use a build folder
+build/
+
 *.class
 
 # Package Files #
